@@ -1,0 +1,9 @@
+.form-input input {
+    height: 50px;
+}
+
+#submit {
+    height: 50px;
+    font-size: 18px;
+    margin: 1em 0px 1em 0px;
+}
